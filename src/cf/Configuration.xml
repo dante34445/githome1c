@@ -254,6 +254,7 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Клиенты</Catalog>
 			<Document>ПриходнаяНакладная</Document>
+			<Enum>СтатусыЗаказа</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
