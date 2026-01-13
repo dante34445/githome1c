@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Клиенты" id="ef20c350-fdd4-4f31-b5da-bb8cc7077707" configVersion="f3eb9b98b6aa1e4ca8a20ab0dbc1064500000000"/>
+		<Metadata name="Catalog.Номенклатура" id="8b1b6e6c-e4ac-413a-960a-4c288fabab4f" configVersion="19312f21c14c764a8b42bb49b797e91500000000"/>
+		<Metadata name="Configuration.ДЗГИТ" id="d54668cf-1e43-43fa-a086-ae9dc4274937" configVersion="81e68e492016b84fa39569290b2e221c00000000"/>
+		<Metadata name="Document.ПриходнаяНакладная" id="49e7d4d2-3d8f-4010-aacb-585eed50b457" configVersion="fa1de6d309fa624db9d75eacd07c055700000000">
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатур.Attribute.Коилчество" id="1647b873-eed4-44ae-a23b-cc1de361e984"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатур" id="42674557-6259-43c6-8b0c-26c5da94999e"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатур.Attribute.Сумма" id="4d190607-2f59-4edb-aaed-f1c8c266fe69"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатур.Attribute.Номенклатура" id="67ea31b3-1484-4113-9453-6a4e77469219"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="b3655c80-6038-46bb-b0e6-ac2c9ba6f1b9" configVersion="c80b8bc11618584e923dac565056e3e400000000"/>
+		<Metadata name="Role.ПолныеПрава" id="ad8f59cb-2e84-4080-ac6a-4b53ea4452de" configVersion="a54879f5c95a0742be7c774bb590d2d300000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="ad8f59cb-2e84-4080-ac6a-4b53ea4452de.0" configVersion="bea675b75096fa45afe07e2610e1877800000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
